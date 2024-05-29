@@ -1,0 +1,8 @@
+prefix=/home/iiru/Desktop/exp1_ws/install
+
+Name: ros_hello
+Description: Description of ros_hello
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

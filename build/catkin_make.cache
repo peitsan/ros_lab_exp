@@ -1,0 +1,2 @@
+ros_hello
+-DCATKIN_DEVEL_PREFIX=/home/iiru/Desktop/exp1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/iiru/Desktop/exp1_ws/install -G Unix Makefiles
